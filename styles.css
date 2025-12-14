@@ -1,0 +1,21 @@
+img{
+    border: 2px solid black;
+    border-radius: 20%;
+    width: 200px;               /*画像の枠を指定する*/
+    margin-bottom: 16px;    /*一番外側の領域の下辺幅を指定*/
+}
+footer{
+    font-size: 14px;    /*文字サイズの変更*/
+    color: gray;    /*文字の色を変更*/
+}
+body{
+    text-align: center;     /*テキストの位置を中心にする*/
+    padding: 16px;  /*内側の余白幅を指定*/
+    background-image: url('./background.png');
+    background-size: cover;
+}
+h1{
+    margin-top: 20px;   /*一番外側の領域の上辺幅を指定*/
+    font-size: 14px;    /*文字サイズの変更*/
+    color: gray;    /*文字の色を変更*/
+}
